@@ -1,5 +1,5 @@
-# Uso de Papyrus
-Papyrus es una herramienta UML open-source basado en Eclipse con tipo de licensia EPL.
+# Uso de Eclipse Papyrus
+Papyrus es una herramienta UML open-source basado en Eclipse con tipo de licencia EPL.
 
 # URL del proyecto
 https://www.eclipse.org/papyrus/
